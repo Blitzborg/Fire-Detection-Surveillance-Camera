@@ -4,7 +4,7 @@
 An automatic algorithm using Python to detect fire from the surveillance cameras which are installed along roadways. A basic deep learning approach was used for the task. 
 
 ## Dataset was compiled by me and contains over 10,000 images. [Link to Dataset](https://www.kaggle.com/tharakan684/urecamain)
-- Synthetically generated images as images scrapped off the web
+- Synthetically generated images and images scrapped off the web
 - Exact distribution of images can be found in the research report.
 
 ## Results
