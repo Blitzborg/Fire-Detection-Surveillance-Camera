@@ -5,7 +5,7 @@ An automatic algorithm using Python to detect fire from the surveillance cameras
 
 ## Dataset was compiled by me and contains over 10,000 images. [Link to Dataset](https://www.kaggle.com/tharakan684/urecamain)
 - Synthetically generated images and images scrapped off the web
-- Exact distribution of images can be found in the research report.
+- Exact distribution of images can be found in the research report and the readme in the dataset folder.
 
 ## Results
 - Test accuracy -> 93.8%
