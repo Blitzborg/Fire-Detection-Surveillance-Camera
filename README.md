@@ -8,6 +8,6 @@ An automatic algorithm using Python to detect fire from the surveillance cameras
 - Exact distribution of images can be found in the research report and the readme in the dataset folder.
 
 ## Results
-- Test accuracy -> 93.8%
-- Validation accuracy -> 95.3%
+- Test accuracy -> 92.2%
+- Validation accuracy -> 94.75%
 - Train accuracy -> 100%
